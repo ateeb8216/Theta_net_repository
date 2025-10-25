@@ -1,4 +1,6 @@
-HLNN Final Model – Hierarchical LSTM-CNN for Multi-Class News Classification
+[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17438642.svg)](https://doi.org/10.5281/zenodo.17438642)
+
+-HLNN Final Model – Hierarchical LSTM-CNN for Multi-Class News Classification
 Overview
 This repository contains the code and resources for the Hierarchical LSTM-CNN News Classification Model (HLNN), a hybrid deep learning framework designed for interpretable multi-class news classification. HLNN captures both local syntactic features (via CNN) and global semantic dependencies (via LSTM), enhanced by attention-based topic modeling, prototype learning, and domain adaptation modules.
 The framework has been evaluated on UCI News Aggregator, BBC News, and a self-curated hybrid dataset, demonstrating robust performance and cross-domain generalization.
